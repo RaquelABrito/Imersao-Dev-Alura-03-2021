@@ -7,7 +7,8 @@ Ao final de cada aula, vamos propor diversos desafios para consolidar o seu conh
 
 
 
-O conteúdo
+O conteúdo:
+
 Você terá aula com alguns dos nossos professores: Rafaella Ballerini, Guilherme Lima e Paulo Silveira.
 
 Durante a Imersão, você vai aprender:
